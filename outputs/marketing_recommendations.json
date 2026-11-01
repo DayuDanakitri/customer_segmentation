@@ -9,7 +9,7 @@
     ]
   },
   {
-    "Cluster": 0,
+    "Cluster": 1,
     "ProfileLabel": "Potential",
     "MarketingRecommendation": [
       "Cross-selling dan upselling produk terkait",
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "Cluster": 1,
+    "Cluster": 0,
     "ProfileLabel": "At Risk",
     "MarketingRecommendation": [
       "Kampanye reaktivasi (email/SMS 'kami merindukanmu')",
