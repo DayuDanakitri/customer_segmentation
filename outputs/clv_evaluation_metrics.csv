@@ -1,0 +1,15 @@
+,value
+n_customers_evaluated,3370.0
+n_active_in_holdout,1921.0
+purchases_spearman,0.49791744670489835
+purchases_pearson,0.793689660010147
+purchases_MAE,0.9345309006429453
+purchases_RMSE,1.5093674773099268
+purchases_total_predicted,3314.239270933526
+purchases_total_actual,4482.0
+clv_spearman_vs_revenue,0.5129343892387503
+clv_pearson_vs_revenue,0.6607277878300409
+clv_total_predicted,1541367.245168711
+revenue_total_actual,2843857.251
+baseline_spearman_frequency,0.49267949111438303
+baseline_spearman_hist_monetary,0.5246372825543898

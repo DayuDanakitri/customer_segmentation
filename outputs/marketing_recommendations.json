@@ -1,0 +1,29 @@
+[
+  {
+    "Cluster": 2,
+    "ProfileLabel": "High Value / Loyal",
+    "MarketingRecommendation": [
+      "Program retensi dan loyalitas (poin, tier membership)",
+      "Penawaran personalisasi berbasis riwayat pembelian",
+      "Early access produk baru / preview eksklusif"
+    ]
+  },
+  {
+    "Cluster": 0,
+    "ProfileLabel": "Potential",
+    "MarketingRecommendation": [
+      "Cross-selling dan upselling produk terkait",
+      "Kampanye engagement untuk meningkatkan frekuensi pembelian",
+      "Bundling atau diskon bertingkat untuk mendorong transaksi berikutnya"
+    ]
+  },
+  {
+    "Cluster": 1,
+    "ProfileLabel": "At Risk",
+    "MarketingRecommendation": [
+      "Kampanye reaktivasi (email/SMS 'kami merindukanmu')",
+      "Diskon personalisasi dengan batas waktu",
+      "Survei singkat untuk memahami alasan penurunan aktivitas"
+    ]
+  }
+]

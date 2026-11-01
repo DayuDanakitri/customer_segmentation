@@ -1,0 +1,8 @@
+step,rows_before,rows_after,rows_removed,customers_after
+initial,541910,541910,0,4372
+remove_invalid_invoice_date,541910,541910,0,4372
+remove_missing_customer_id,541910,406830,135080,4372
+remove_duplicate_rows,406830,401605,5225,4372
+remove_cancellation,401605,392733,8872,4339
+remove_non_positive_quantity,392733,392733,0,4339
+remove_non_positive_unit_price,392733,392693,40,4338
